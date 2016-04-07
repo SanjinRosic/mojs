@@ -1,6 +1,8 @@
 # mo · js [![Build Status](https://travis-ci.org/legomushroom/mojs.svg?branch=master)](https://travis-ci.org/legomushroom/mojs) [![Coverage Status](https://coveralls.io/repos/legomushroom/mojs/badge.svg?branch=master)](https://coveralls.io/r/legomushroom/mojs?branch=master) [![unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)](http://github.com/badges/stability-badges) [![mojs channel on slack](https://img.shields.io/badge/slack-mojs%20channel-61DAAA.svg?style=flat)](https://mojs.slack.com/messages/mojs/)
 
-#### motion graphics toolbelt for the web
+## Intro
+
+**Mojs** is a motion graphics tool belt for the web. A simple to add JavaScript library created by Oleg Solomka, **Mojs** is fast, retina ready, modular and open sourced. If looking to enhance user experience on your site with unique effects and smooth animations **Mojs** is the library for you. Gorgeous effects across all devices and a declarative Application Programming Interface (API) **Mojs** provides make you, the developer, feel like a master over your project. Constantly refined by the dedicated community this “motion for the web” library can be customized per project and has excellent browser support. Go ahead and add a swirl, burst or a wave to your object or make it dance across the screen in the most natural way. Have your project draw users in by using **Mojs**.
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/legomushroom.svg)](https://saucelabs.com/u/legomushroom)
 
