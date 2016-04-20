@@ -4,7 +4,7 @@
 
 Looking to enhance user experience on your site with unique effects and smooth animations? Introducing **Mo · js**!  
 
-**Mo · js** is a simple to add collection of pre-written JavaScript code, or a library, created by Oleg Solomka. The library is fast, retina ready, modular and open sourced. Easy, declarative interface **Mo · js** provides make you, the developer, feel like a master over your project. Constantly refined by the dedicated community this “motion for the web” library can be customized per project and has excellent browser support. Go ahead and add a swirl, burst or a wave to your website object or make it dance across the screen in the most natural way. Have your project draw users in by using **Mo · js**.
+**mo · js** is a simple to add collection of pre-written JavaScript code, or a library, created by Oleg Solomka. The library is fast, retina ready, modular and open sourced. Easy, declarative interface **mo · js** provides make you, the developer, feel like a master over your project. Constantly refined by the dedicated community this “motion for the web” library can be customized per project and has excellent browser support. Go ahead and add a swirl, burst or a wave to your website object or make it dance across the screen in the most natural way. Have your project draw users in by using **mo · js**.
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/legomushroom.svg)](https://saucelabs.com/u/legomushroom)
 
